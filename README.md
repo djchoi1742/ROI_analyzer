@@ -1,6 +1,6 @@
 # ROI_analyzer
-# Program for image texture analysis
-# Main features
+Program for image texture analysis
+Main features
 - View basic statistics
   - Mean
   - Standard deviation
